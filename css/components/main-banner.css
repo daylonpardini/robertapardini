@@ -1,0 +1,27 @@
+.main-banner{
+    display: flex;
+    background-color: #FFB6C1;
+}
+
+.main-title{
+    color: #FFF;
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+.sub-title{
+    color: #FFF;
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+.main-box{
+    display: inline-block;
+    background-color: #e5b3df;
+    box-shadow: 10px 10px 0 #f792d0;
+    text-align: center;
+    padding: 42px 44px;
+
+}
+
+.main-banner .main-button{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 38px;
+}

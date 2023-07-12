@@ -1,0 +1,35 @@
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FFB6C1;
+    border-bottom: 2px solid #FFF;
+    padding: 10px 20px;
+    overflow: hidden;
+}
+
+.main-header .action-square{
+    color: #FFF;
+    font-size: 20px;
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    text-decoration: none;
+}
+
+.main-button{
+    border-radius: 25px;
+    color: #000;
+    font-weight: 700;
+    line-height: 84.693%;
+    font-size:20px ;
+    padding: 10px 50px;
+    text-decoration: none;
+    background-color: #00DA99;;
+    border: 5px solid #000;
+    transition: 0.3s;
+    
+}
+
+.main-button:hover{
+    transform: scale(1.08);
+}
