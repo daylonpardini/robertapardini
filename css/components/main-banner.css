@@ -1,9 +1,10 @@
 .main-banner{
-    display: flex;
     background-color: #FFB6C1;
+    height: 500px;
 }
 
 .main-title{
+    font-size: 45px;
     color: #FFF;
     font-family: "Poppins", Arial, Helvetica, sans-serif;
 }
@@ -17,11 +18,27 @@
     box-shadow: 10px 10px 0 #f792d0;
     text-align: center;
     padding: 42px 44px;
+    margin-left: 90px;
+}
 
+.main-banner .main-box{
+    margin-bottom: 40px;
+    margin-top: 115px;
 }
 
 .main-banner .main-button{
-    display: flex;
     justify-content: space-around;
-    margin-top: 38px;
+    margin-top: 10px;
+}
+
+.main-banner .wrapper-banner{
+    display: flex;
+    flex-direction: column;
+    width: 630px;
+}
+
+.main-banner .main-nav{
+    display: flex;
+    justify-content: center;
+    margin-left: 90px;
 }
