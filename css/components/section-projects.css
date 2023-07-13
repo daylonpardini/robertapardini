@@ -1,0 +1,49 @@
+.section-projects{
+    background-color: #FFB6C1;
+    height: 800px;
+    border-bottom: 2px solid #FFF;
+}
+
+.main-title.-second{
+    display: flex;
+    color: #ee5b8c;
+    justify-content: center;
+    padding-top: 30px;
+    
+}
+
+.wrapper-card{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 98px;
+    padding-top: 50px;
+}
+
+.sub-title.-second{
+
+    display: flex;
+    justify-content: center;
+    color: #FFF;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    background-color: #b32f61;
+    box-shadow: 5px 5px 0 #ee5b8c;
+}
+
+.main-legend{
+    text-align: center;
+    font-size: 19px;
+    color: #FFF;
+    background-color: #b32f61;
+    border-radius: 15px;
+}
+
+.main-legend.-title{
+    font-size: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    border-bottom: 2px solid #FFF;
+}
