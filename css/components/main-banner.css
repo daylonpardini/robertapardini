@@ -1,6 +1,7 @@
 .main-banner{
     background-color: #FFB6C1;
-    height: 500px;
+    height: 650px;
+    border-bottom: 2px solid #FFF;
 }
 
 .main-title{
@@ -14,8 +15,8 @@
 }
 .main-box{
     display: inline-block;
-    background-color: #e5b3df;
-    box-shadow: 10px 10px 0 #f792d0;
+    background-color: #b32f61;
+    box-shadow: 10px 10px 0 #ee5b8c;
     text-align: center;
     padding: 42px 44px;
     margin-left: 90px;

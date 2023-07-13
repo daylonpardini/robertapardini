@@ -9,7 +9,7 @@
 }
 
 .main-header .action-square{
-    color: #FFF;
+    color: #ee5b8c;
     font-size: 20px;
     font-family: "Poppins", Arial, Helvetica, sans-serif;
     padding-left: 20px;
@@ -18,14 +18,14 @@
 
 .main-button{
     border-radius: 25px;
-    color: #000;
+    color: #FFF;
     font-weight: 700;
     line-height: 84.693%;
     font-size:20px ;
     padding: 10px 50px;
     text-decoration: none;
-    background-color: #25d366;
-    border: 5px solid #000;
+    background-color: #b32f61;
+    border: 5px solid #FFF;
     transition: 0.3s;
     
 }
