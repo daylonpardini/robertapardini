@@ -1,0 +1,24 @@
+.main-packages{
+    background-color: #FFB6C1;
+    border-bottom: 2px solid #FFF;
+}
+
+.main-packages .sub-title.-second{
+    text-align: center;
+    color: #FFF;
+    background-color: #FFB6C1;
+    padding: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+    padding-top: 25px;
+    text-shadow: 2px 2px #b32f61;
+    font-size:  25px;
+    box-shadow: none;
+    padding-bottom: 25px;
+}
+
+.main-packages .main-logo{
+    display: flex;
+    justify-content: space-around;
+}
